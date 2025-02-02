@@ -16,7 +16,8 @@ A modern twist on the classic snake game, featuring customizable themes, challen
 
 This project is a reimagined version of the traditional snake game. It incorporates modern design elements, such as custom sprites for the snake (head, body, and tail), customizable themes (green, black, and white backgrounds), and two distinct game modes: Classic and Challenge. The Challenge mode introduces obstacles that are added each time the snake eats an apple, increasing the game’s difficulty dynamically.
 
-![image](https://github.com/user-attachments/assets/89f6fab1-c0dd-47dc-89f0-e155ce628f48)
+![Print](https://github.com/user-attachments/assets/d1959432-c3c2-475e-b229-5b672c4db990)
+
 
 
 ## Features
